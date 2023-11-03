@@ -1,0 +1,14 @@
+C:\Users\peggy\source\repos\ShoppingListUsingClasses\obj\Debug\net6.0\ShoppingListUsingClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peggy\source\repos\ShoppingListUsingClasses\obj\Debug\net6.0\ShoppingListUsingClasses.AssemblyInfoInputs.cache
+C:\Users\peggy\source\repos\ShoppingListUsingClasses\obj\Debug\net6.0\ShoppingListUsingClasses.AssemblyInfo.cs
+C:\Users\peggy\source\repos\ShoppingListUsingClasses\obj\Debug\net6.0\ShoppingListUsingClasses.csproj.CoreCompileInputs.cache
+C:\Users\peggy\source\repos\ShoppingListUsingClasses\bin\Debug\net6.0\ShoppingListUsingClasses.exe
+C:\Users\peggy\source\repos\ShoppingListUsingClasses\bin\Debug\net6.0\ShoppingListUsingClasses.deps.json
+C:\Users\peggy\source\repos\ShoppingListUsingClasses\bin\Debug\net6.0\ShoppingListUsingClasses.runtimeconfig.json
+C:\Users\peggy\source\repos\ShoppingListUsingClasses\bin\Debug\net6.0\ShoppingListUsingClasses.dll
+C:\Users\peggy\source\repos\ShoppingListUsingClasses\bin\Debug\net6.0\ShoppingListUsingClasses.pdb
+C:\Users\peggy\source\repos\ShoppingListUsingClasses\obj\Debug\net6.0\ShoppingListUsingClasses.dll
+C:\Users\peggy\source\repos\ShoppingListUsingClasses\obj\Debug\net6.0\refint\ShoppingListUsingClasses.dll
+C:\Users\peggy\source\repos\ShoppingListUsingClasses\obj\Debug\net6.0\ShoppingListUsingClasses.pdb
+C:\Users\peggy\source\repos\ShoppingListUsingClasses\obj\Debug\net6.0\ShoppingListUsingClasses.genruntimeconfig.cache
+C:\Users\peggy\source\repos\ShoppingListUsingClasses\obj\Debug\net6.0\ref\ShoppingListUsingClasses.dll
